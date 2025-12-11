@@ -5,7 +5,7 @@ title: Charles Morales – CS-499 Computer Science ePortfolio
 # CS-499 Computer Science ePortfolio  
 ## Charles Morales
 
-Welcome to my GitHub Pages ePortfolio for the CS-499 Computer Science Capstone. This site presents my professional self-assessment, enhanced artifacts, and evidence of the program outcomes.
+Welcome to my GitHub Pages ePortfolio for the SNHU CS-499 Computer Science Capstone. This site presents my professional self-assessment, enhanced artifacts, and evidence of the program outcomes.
 
 ## Professional Self-Assessment
 
@@ -37,3 +37,4 @@ Welcome to my GitHub Pages ePortfolio for the CS-499 Computer Science Capstone. 
 - Repository: [meatywaffles.github.io](https://github.com/meatywaffles/meatywaffles.github.io)  
 
 - Email: CMorales424@outlook.com
+
