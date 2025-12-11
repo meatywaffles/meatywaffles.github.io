@@ -35,4 +35,5 @@ Welcome to my GitHub Pages ePortfolio for the CS-499 Computer Science Capstone. 
 ## GitHub & Contact
 
 - Repository: [meatywaffles.github.io](https://github.com/meatywaffles/meatywaffles.github.io)  
-- Email: *optional*
+
+- Email: CMorales424@outlook.com
