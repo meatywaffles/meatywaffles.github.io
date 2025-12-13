@@ -30,11 +30,12 @@ Welcome to my GitHub Pages ePortfolio for the SNHU CS-499 Computer Science Capst
 
 ## Code Review
 
-[View Code Review](./code-review.md)
+[View Code Review](https://youtu.be/0WJe5_aTY58)
 
 ## GitHub & Contact
 
 - Repository: [meatywaffles.github.io](https://github.com/meatywaffles/meatywaffles.github.io)  
 
 - Email: CMorales424@outlook.com
+
 
