@@ -1,0 +1,18 @@
+Charles Morales
+CS 499 Capstone Artifact 2
+
+Briefly describe the artifact. What is it? When was it created?
+
+The artifact I selected for this enhancement is also the Corner Grocer project from CS 210.  The project was a simple C++ application that tracks the frequency of purchased grocery items by reading a text file and giving counts for each item or specific item.  I made a version that uses Python for file-reading and data processing logic, while using C++ for the user interface and output.  This combination allowed me to experiment with integrating two programming languages and strengthened my skills in cross-language software design.    For this artifact, I continued from artifact 1 where I added an ItemTracker class to provide better encapsulation, modularity, and maintainability.  This combined structure gave me a clear foundation on which to apply additional algorithm and data structure focused enhancements in this milestone.
+
+Justify the inclusion of the artifact in your ePortfolio. Why did you select this item? What specific components of the artifact showcase your skills and abilities in algorithms and data structure? How was the artifact improved?
+
+I chose this artifact because it gave me a chance to show how I can optimize algorithms and pick efficient data structures.  Instead of using the original manual counting loop, I replaced the logic with Python’s collections.Counter, which both improves performance and simplifies the code.  The original implementation recalculated frequencies every time the program needed them, scanning the entire text file repeatedly, which made the process slower and more repetitive.  So, I also added caching inside get_all_frequencies() so the program doesn't redo work unnecessarily, which demonstrates an understanding of time-space trade-offs.  Refactoring everything into a class-based design also sets the project up for future features, like supporting database storage.  Overall, the enhancements highlight my ability to apply data structures, evaluate efficiency, and write clean, scalable code.
+
+Did you meet the course outcomes you planned to meet with this enhancement in Module One? Do you have any updates to your outcome-coverage plans?
+
+Yes, this enhancement meets my planned outcome of designing and evaluating computing solutions using solid algorithmic principles.  Using Counter and caching shows intentional choice of efficient data structures, and the improved architecture reflects good software design practices.  I don’t have any changes to my outcome-coverage plan since the enhancement went as expected. 
+
+Reflect on the process of enhancing and modifying the artifact. What did you learn as you were creating it and improving it? What challenges did you face?
+
+Working on this project reinforced how powerful built-in data structures can be.  Counter, for example, uses optimized C under the hood, and switching to it immediately improved the program’s performance and clarity.  Adding caching helped me think more about balancing runtime cost with memory use, which I hadn’t paid as much attention to before.  The main challenge was making sure I didn’t expand the scope too much while still improving the algorithmic parts of the program.  I also needed to ensure that the optimized Python functions still returned data structures that were compatible with the C++ code, which helped me think more carefully about cross-language interoperability.  Overall, the process helped me better understand how much impact the right data structure and a clean design can have.
