@@ -38,8 +38,8 @@ role.
    The first artifact is the “Corner Grocer” project, originally created for CS 210. The project is a C++ application that tracks the frequency of purchased grocery items by reading a text file and generating item counts. I enhanced this project by restructuring the code and integrating Python for file reading and data processing while retaining C++ for the user interface. This enhancement strengthened my understanding of modular design, encapsulation, and cross-language software development.
 
   - [Description & Narrative](./Artifacts/Artifact%201%20Software%20Design/CS%20499%20Artifact%201.docx)  
-  - [Original Code](./Artifacts/Artifact%201%20Software%20Design/Grocer%20Original/Grocer)  
-  - [Enhanced Code](./Artifacts/Artifact%201%20Software%20Design/Grocer%20Enhanced/Grocer)
+  - [Original Code](./Artifacts/Artifact%201%20Software%20Design/Grocer%20Original/Grocer/Grocer/Python.py)  
+  - [Enhanced Code](./Artifacts/Artifact%201%20Software%20Design/Grocer%20Enhanced/Grocer/Grocer/PythonCode.py)
 
 - **Artifact 2 – Algorithms & Data Structures (Counter + caching)**
   
@@ -47,16 +47,16 @@ role.
 
 
   - [Description & Narrative](./Artifacts/Artifact%202%20Algorithms/CS%20499%20Artifact%202.docx)  
-  - [Original Code](./Artifacts/Artifact%202%20Algorithms/Grocer%20Original/Grocer)  
-  - [Enhanced Code](./Artifacts/Artifact%202%20Algorithms/Grocer%20Enhanced)
+  - [Original Code](./Artifacts/Artifact%202%20Algorithms/Grocer%20Original/Grocer/Grocer/Python.py)  
+  - [Enhanced Code](./Artifacts/Artifact%202%20Algorithms/Grocer%20Enhanced/Grocer/PythonCode.py)
 
 - **Artifact 3 – Databases (SQLite + parameterized queries)**
   
   The third artifact further enhances the Corner Grocer project by incorporating database-related concepts and secure data handling. This enhancement demonstrates my ability to manage stored data effectively while maintaining a focus on reliability and security. By extending the original application, I was able to apply database principles and reinforce the importance of protecting data through responsible design choices.
 
   - [Description & Narrative](./Artifacts/Artifact%203%20Databases/CS%20499%20Artifact%203.docx)  
-  - [Original Code](./Artifacts/Artifact%203%20Databases/Grocer%20Original/Grocer)  
-  - [Enhanced Code](./Artifacts/Artifact%203%20Databases/Grocer%20Enhanced/Grocer)
+  - [Original Code](./Artifacts/Artifact%203%20Databases/Grocer%20Original/Grocer/Grocer/Python.py)  
+  - [Enhanced Code](./Artifacts/Artifact%203%20Databases/Grocer%20Enhanced/Grocer/Grocer/PythonCode.py)
 
 ## Code Review
 
@@ -67,6 +67,7 @@ role.
 - Repository: [meatywaffles.github.io](https://github.com/meatywaffles/meatywaffles.github.io)  
 
 - Email: CMorales424@outlook.com
+
 
 
 
