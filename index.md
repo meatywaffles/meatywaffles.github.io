@@ -9,7 +9,27 @@ Welcome to my GitHub Pages ePortfolio for the SNHU CS-499 Computer Science Capst
 
 ## Professional Self-Assessment
 
-[View Professional Self-Assessment](./professional-self-assessment.md)
+Completing the Computer Science program and developing this ePortfolio has allowed me
+to reflect on my technical growth and my readiness to enter the field.  Throughout the
+program, I strengthened my problem-solving skills, improved my ability to write clean 
+and maintainable code, and gained experience applying computer science concepts to 
+practical problems.  The capstone experience brought these skills together by requiring
+me to revisit earlier work, evaluate it critically, and enhance it using professional 
+standards.
+
+I developed a strong foundation in data structures, algorithms, software engineering,
+and databases through hands-on programming assignments.  These courses helped me
+understand how design decisions impact performance, scalability, and maintainability.
+I also became more aware of security considerations, learning to write safer code by
+validating input, handling data responsibly, and reviewing programs with a security-
+focused mindset. 
+
+The artifacts included in this ePortfolio demonstrate the integration of these skills
+across multiple areas of computer science.  Each enhancement artifact reflects growth
+in design, efficiency, and reliability, and together they showcase my ability to
+analyze existing code and improve it thoughtfully.  As a whole, this portfolio
+represents my preparation to contribute effectively in a professional computer science
+role.
 
 ## Enhanced Artifacts
 
@@ -37,5 +57,6 @@ Welcome to my GitHub Pages ePortfolio for the SNHU CS-499 Computer Science Capst
 - Repository: [meatywaffles.github.io](https://github.com/meatywaffles/meatywaffles.github.io)  
 
 - Email: CMorales424@outlook.com
+
 
 
