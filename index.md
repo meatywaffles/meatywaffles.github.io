@@ -31,6 +31,10 @@ analyze existing code and improve it thoughtfully.  As a whole, this portfolio
 represents my preparation to contribute effectively in a professional computer science
 role.
 
+## Code Review
+
+[View Code Review](https://youtu.be/0WJe5_aTY58)
+
 ## Enhanced Artifacts
 
 - **Artifact 1 – Software Design & Engineering (Corner Grocer – ItemTracker class)**
@@ -44,7 +48,6 @@ role.
   
   The second artifact builds upon the Corner Grocer project by focusing on algorithm and data structure improvements. I expanded the design introduced in Artifact 1 by implementing an ItemTracker class to improve encapsulation, modularity, and maintainability. These changes provided a clearer foundation for applying efficient algorithms and reinforced my understanding of how data structures impact performance and scalability.
 
-
   - [Description & Narrative](./Artifacts/Artifact%202%20Algorithms/CS%20499%20Artifact%202.docx)  
   - [Repository](https://github.com/meatywaffles/meatywaffles.github.io/tree/main/Artifacts/Artifact%202%20Algorithms)
 
@@ -55,15 +58,12 @@ role.
   - [Description & Narrative](./Artifacts/Artifact%203%20Databases/CS%20499%20Artifact%203.docx)  
   - [Repository](https://github.com/meatywaffles/meatywaffles.github.io/tree/main/Artifacts/Artifact%203%20Databases)
 
-## Code Review
-
-[View Code Review](https://youtu.be/0WJe5_aTY58)
-
 ## GitHub & Contact
 
 - Repository: [meatywaffles.github.io](https://github.com/meatywaffles/meatywaffles.github.io)  
 
 - Email: CMorales424@outlook.com
+
 
 
 
