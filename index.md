@@ -34,6 +34,7 @@ role.
 ## Enhanced Artifacts
 
 - **Artifact 1 – Software Design & Engineering (Corner Grocer – ItemTracker class)**
+  
    The first artifact is the “Corner Grocer” project, originally created for CS 210. The project is a C++ application that tracks the frequency of purchased grocery items by reading a text file and generating item counts. I enhanced this project by restructuring the code and integrating Python for file reading and data processing while retaining C++ for the user interface. This enhancement strengthened my understanding of modular design, encapsulation, and cross-language software development.
 
   - [Description & Narrative](./Artifacts/Artifact%201%20Software%20Design/CS%20499%20Artifact%201.docx)  
@@ -41,6 +42,7 @@ role.
   - [Enhanced Code](./Artifacts/Artifact%201%20Software%20Design/Grocer%20Enhanced/Grocer)
 
 - **Artifact 2 – Algorithms & Data Structures (Counter + caching)**
+  
   The second artifact builds upon the Corner Grocer project by focusing on algorithm and data structure improvements. I expanded the design introduced in Artifact 1 by implementing an ItemTracker class to improve encapsulation, modularity, and maintainability. These changes provided a clearer foundation for applying efficient algorithms and reinforced my understanding of how data structures impact performance and scalability.
 
 
@@ -49,6 +51,7 @@ role.
   - [Enhanced Code](./Artifacts/Artifact%202%20Algorithms/Grocer%20Enhanced)
 
 - **Artifact 3 – Databases (SQLite + parameterized queries)**
+  
   The third artifact further enhances the Corner Grocer project by incorporating database-related concepts and secure data handling. This enhancement demonstrates my ability to manage stored data effectively while maintaining a focus on reliability and security. By extending the original application, I was able to apply database principles and reinforce the importance of protecting data through responsible design choices.
 
   - [Description & Narrative](./Artifacts/Artifact%203%20Databases/CS%20499%20Artifact%203.docx)  
@@ -64,6 +67,7 @@ role.
 - Repository: [meatywaffles.github.io](https://github.com/meatywaffles/meatywaffles.github.io)  
 
 - Email: CMorales424@outlook.com
+
 
 
 
