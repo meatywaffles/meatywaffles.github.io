@@ -38,7 +38,7 @@ role.
    The first artifact is the “Corner Grocer” project, originally created for CS 210. The project is a C++ application that tracks the frequency of purchased grocery items by reading a text file and generating item counts. I enhanced this project by restructuring the code and integrating Python for file reading and data processing while retaining C++ for the user interface. This enhancement strengthened my understanding of modular design, encapsulation, and cross-language software development.
 
   - [Description & Narrative](./Artifacts/Artifact%201%20Software%20Design/CS%20499%20Artifact%201.docx)  
-  - [Repository]([https://github.com/meatywaffles/meatywaffles.github.io/tree/main/Artifacts/Artifact%201%20Software%20Design)
+  - [Repository](https://github.com/meatywaffles/meatywaffles.github.io/tree/main/Artifacts/Artifact%201%20Software%20Design)
   
 - **Artifact 2 – Algorithms & Data Structures (Counter + caching)**
   
@@ -64,6 +64,7 @@ role.
 - Repository: [meatywaffles.github.io](https://github.com/meatywaffles/meatywaffles.github.io)  
 
 - Email: CMorales424@outlook.com
+
 
 
 
